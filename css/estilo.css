@@ -1,0 +1,21 @@
+.banner{
+    width: 100%;
+}
+
+header{
+    background-color: blue;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    /* background-color: blue; */
+}
+footer{
+    background-color: brown;
+    width: 100%;
+}
+body{
+    /*background-color:black;*/
+    color: #fff;
+    background-image: url(../imagens/fundo.png);
+}
